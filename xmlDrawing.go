@@ -125,7 +125,7 @@ const (
 	MaxColumns           = 16384
 	MaxColumnWidth       = 255
 	MaxFieldLength       = 255
-	MaxFilePathLength    = 207
+	MaxFilePathLength    = 2047
 	MaxFormControlValue  = 30000
 	MaxFontFamilyLength  = 31
 	MaxFontSize          = 409
